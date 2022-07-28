@@ -3,7 +3,7 @@ package project;
 public class prog1 {
 
 	public static void main(String[] args) {
-		System.out.println("first push");
+		System.out.println("pussh to main");
 
 	}
 
